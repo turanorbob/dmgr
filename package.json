@@ -2,7 +2,7 @@
   "name": "dmgr",
   "version": "1.0.0",
   "description": "docker manager ",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
